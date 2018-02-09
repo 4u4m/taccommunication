@@ -1,23 +1,22 @@
 {
   "settings": {
-    "name": "Site-02-08_1724",
+    "name": "Site-02-09_1133",
     "currentPage": "index.html",
     "theme": {
-      "name": "colorm",
-      "title": "ColorM",
+      "name": "directm",
+      "title": "DirectM",
       "styling": {
-        "primaryColor": "#f39c12",
-        "buttonsColor": "#000000",
-        "secondaryColor": "#9b59b6",
-        "successColor": "#2ecc71",
-        "infoColor": "#3498db",
-        "warningColor": "#f1c40f",
-        "dangerColor": "#e74c3c",
-        "titleFont": "Arvo",
-        "subtitleFont": "Montserrat",
-        "textFont": "Open Sans",
-        "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "primaryColor": "#5aac98",
+        "secondaryColor": "#A25DAE",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
